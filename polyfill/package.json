@@ -5,7 +5,7 @@
   "main": "intersection-observer",
   "repository": {
     "type": "git",
-    "url": "git@github.com:w3c/IntersectionObserver.git"
+    "url": "https://github.com/dmstr-forks/w3c-IntersectionObserver.git"
   },
   "keywords": [
     "Intersection",
